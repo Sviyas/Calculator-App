@@ -9,6 +9,10 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
+
+/**
+ * @author viyas
+ */
 public class Calculator implements ActionListener {
 
 	double number, answer;
